@@ -1,0 +1,2 @@
+(this["webpackJsonpcrypto-land"]=this["webpackJsonpcrypto-land"]||[]).push([[0],{10:function(n,t,e){"use strict";e.r(t);e(1);var c=e(3),r=e.n(c),i=(e(8),e(0)),o=function(){return Object(i.jsx)("div",{children:Object(i.jsx)("div",{children:"app"})})};r.a.render(Object(i.jsx)(o,{}),document.getElementById("root"))},8:function(n,t,e){}},[[10,1,2]]]);
+//# sourceMappingURL=main.9b8a784d.chunk.js.map
